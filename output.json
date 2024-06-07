@@ -1,90 +1,87 @@
 {
-  "id": "bbf766fc-ad64-4075-8c09-5c4c837ac44a",
-  "coins": [],
-  "status": "COMPLETED",
-  "result": {
-    "job_id": "bbf766fc-ad64-4075-8c09-5c4c837ac44a",
-    "tasks": [
-      [
-        {
-          "coin": "DUKO",
-          "output": {
-            "price": "0.005593",
-            "price_change": "39.20",
-            "market_cap": "54231818",
-            "market_cap_rank": "635",
-            "volume": "23758115",
-            "volume_rank": "225",
-            "volume_change": "43.81",
-            "circulating_supply": "9663955990",
-            "total_supply": "9999609598",
-            "diluted_market_cap": "56115426",
-            "contracts": [
-              {
-                "name": "solana",
-                "address": "HLptm5e6rTgh4EKgDpYFrnRHbjpkMyVdEeREEa2G7rf9"
-              }
-            ],
-            "official_links": [
-              {
-                "name": "website",
-                "link": "https://dukocoin.com/"
-              }
-            ],
-            "socials": [
-              {
-                "name": "twitter",
-                "url": "https://twitter.com/dukocoin"
-              },
-              {
-                "name": "telegram",
-                "url": "https://t.me/+jlScZmFrQ8g2MDg8"
-              }
-            ]
-          }
-        },
-        {
-          "coin": "NOT",
-          "output": {
-            "price": "0.02197",
-            "price_change": "2.26",
-            "market_cap": "2256650788",
-            "market_cap_rank": "52",
-            "volume": "1255724726",
-            "volume_rank": "9",
-            "volume_change": "55.65",
-            "circulating_supply": "102701048213",
-            "total_supply": "102701048213",
-            "diluted_market_cap": "2256650788",
-            "contracts": [
-              {
-                "name": "ton",
-                "address": "EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT"
-              }
-            ],
-            "official_links": [
-              {
-                "name": "website",
-                "link": "https://notco.in/"
-              },
-              {
-                "name": "whitepaper",
-                "link": "https://cdn.joincommunity.xyz/notcoin/Notcoin_Whitepaper.pdf"
-              }
-            ],
-            "socials": [
-              {
-                "name": "twitter",
-                "url": "https://twitter.com/thenotcoin"
-              },
-              {
-                "name": "telegram",
-                "url": "https://t.me/notcoin"
-              }
-            ]
-          }
-        }
-      ]
-    ]
-  }
+    "id":"bbf766fc-ad64-4075-8c09-5c4c837ac44a",
+    "status":"COMPLETED",
+    "result":{
+        "job_id":"bbf766fc-ad64-4075-8c09-5c4c837ac44a",
+        "tasks":[
+            {
+                "coin":"DUKO",
+                "output":{
+                    "price":"0.005593",
+                    "price_change":"39.20",
+                    "market_cap":"54231818",
+                    "market_cap_rank":"635",
+                    "volume":"23758115",
+                    "volume_rank":"225",
+                    "volume_change":"43.81",
+                    "circulating_supply":"9663955990",
+                    "total_supply":"9999609598",
+                    "diluted_market_cap":"56115426",
+                    "contracts":[
+                        {
+                            "name":"solana",
+                            "address":"HLptm5e6rTgh4EKgDpYFrnRHbjpkMyVdEeREEa2G7rf9"
+                        }
+                    ],
+                    "official_links":[
+                        {
+                            "name":"website",
+                            "link":"https://dukocoin.com/"
+                        }
+                    ],
+                    "socials":[
+                        {
+                            "name":"twitter",
+                            "url":"https://twitter.com/dukocoin"
+                        },
+                        {
+                            "name":"telegram",
+                            "url":"https://t.me/+jlScZmFrQ8g2MDg8"
+                        }
+                    ]
+                }
+            },
+            {
+                "coin":"NOT",
+                "output":{
+                    "price":"0.02197",
+                    "price_change":"2.26",
+                    "market_cap":"2256650788",
+                    "market_cap_rank":"52",
+                    "volume":"1255724726",
+                    "volume_rank":"9",
+                    "volume_change":"55.65",
+                    "circulating_supply":"102701048213",
+                    "total_supply":"102701048213",
+                    "diluted_market_cap":"2256650788",
+                    "contracts":[
+                        {
+                            "name":"ton",
+                            "address":"EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT"
+                        }
+                    ],
+                    "official_links":[
+                        {
+                            "name":"website",
+                            "link":"https://notco.in/"
+                        },
+                        {
+                            "name":"whitepaper",
+                            "link":"https://cdn.joincommunity.xyz/notcoin/Notcoin_Whitepaper.pdf"
+                        }
+                    ],
+                    "socials":[
+                        {
+                            "name":"twitter",
+                            "url":"https://twitter.com/thenotcoin"
+                        },
+                        {
+                            "name":"telegram",
+                            "url":"https://t.me/notcoin"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
 }
