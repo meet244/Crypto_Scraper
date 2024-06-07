@@ -1,0 +1,7 @@
+djangorestframework
+django
+redis
+celery
+tk
+selenium
+requests
